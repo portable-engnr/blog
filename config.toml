@@ -7,6 +7,8 @@ theme = "showcase"
 # theme = "hello-friend-ng" # when testing the cooperatiton site theme on this blog.
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
+publishdir = "docs"
+
 [params]
   author = "usugata-engineer"
   description = "test page for my first blog"
