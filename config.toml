@@ -1,9 +1,10 @@
-baseURL = "https://usugataEngnr.github.io/blog"
+baseURL = "https://portable-engnr.github.io/blog"
 languageCode = "en-us ja"
 title = "My first blog"
 Paginate = 1000
 googleAnalytics = ""
 theme = "showcase"
+# theme = "hello-friend-ng" # when testing the cooperatiton site theme on this blog.
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
