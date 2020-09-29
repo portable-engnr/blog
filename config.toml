@@ -1,0 +1,23 @@
+baseURL = "https://usugataEngnr.github.io/blog"
+languageCode = "en-us ja"
+title = "My first blog"
+Paginate = 1000
+googleAnalytics = ""
+theme = "showcase"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+  author = "usugata-engineer"
+  description = "test page for my first blog"
+  message = ""
+  hideAutoMenu = false
+
+[[menu.main]]
+  name = "Zeroidea Co., Ltd."
+  url = "https://www.zeroidea.co.jp/"
+
+[social]
+  facebook = "https://www.facebook.com/usugata.student"
+  # twitter = "https://twitter.com"
+  # instagram = "https://instagram.com"
+  linkedin = "https://www.linkedin.com/in/%E7%A5%A5%E5%B9%B3-%E5%A4%A7%E6%A7%BB-4b4304110/"
